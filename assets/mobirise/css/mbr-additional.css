@@ -2142,40 +2142,14 @@ section.lazy-placeholder:after {
 .cid-qIoeaRX6R3 .mbr-text {
   color: #767676;
 }
-.cid-s0dTQ3RoSW {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-s0ep69Txmp {
+  padding-top: 75px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
-.cid-s0dTQ3RoSW .form-control {
-  color: #000000 !important;
-  border: none;
-  border-radius: 0 !important;
-  background-color: transparent;
-  padding: .5rem 0rem;
-  border-bottom: 1px solid #000000;
-}
-.cid-s0dTQ3RoSW .form-control:focus {
-  outline: none;
-  box-shadow: none;
-}
-.cid-s0dTQ3RoSW input::-webkit-input-placeholder {
-  color: #000000;
-}
-.cid-s0dTQ3RoSW input::-moz-placeholder {
-  color: #000000;
-}
-.cid-s0dTQ3RoSW textarea::-webkit-input-placeholder {
-  color: #000000;
-}
-.cid-s0dTQ3RoSW textarea::-moz-placeholder {
-  color: #000000;
-}
-.cid-s0dTQ3RoSW textarea.form-control {
-  min-height: 83px;
-}
-.cid-s0dTQ3RoSW .mbr-section-subtitle {
-  color: #767676;
+.cid-s0ep69Txmp .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
 }
 .cid-qIofQ15Bif {
   padding-top: 60px;
